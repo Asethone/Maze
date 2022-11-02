@@ -1,70 +1,9 @@
-<style>
-    @font-face {
-	font-family: 'JetBrainsMono'; 
-	src: url(misc/fonts/JetBrainsMono-Regular.woff2); 
-}
-
-@font-face {
-    font-family: 'JetBrainsMono-Light';
-    src: url(misc/fonts/JetBrainsMono-Light.woff2); 
-}
-
-@font-face {
-    font-family: 'JetBrainsMono-SemiBold';
-    src: url(misc/fonts/JetBrainsMono-SemiBold.woff2); 
-}
-
-@font-face {
-    font-family: 'JetBrainsMono-Bold';
-    src: url(misc/fonts/JetBrainsMono-Bold.woff2); 
-}
-
-body {
-    font-family: 'JetBrainsMono';
-    font-size: 16pt;
-    background-color: #191C21;
-    color: #FCFEF1;
-    letter-spacing: 2px;
-    margin-left: 20px;
-  }
-
-h1, h2, h3, h4 {
-    font-family: 'JetBrainsMono-Bold';
-}
-
-b {
-    font-family: 'JetBrainsMono-SemiBold';
-}
-
-li {
-    font-family: 'JetBrainsMono-Light';
-    font-size: 14pt;
-}
-
-p {
-   border:#9E363A  solid;
-   padding: 15px;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-img.smallImage {
-    width: 500px;
-}
-
-img.midleImage {
-    width: 600px;
-}
-
-</style>
-
-<img class="smallImage" src="misc/images/logo.png">
-
 <h1>DOCUMENTATION MAZE</h1>
+
+<p align="center">
+    <img width="300" src="misc/images/logo.png">
+</p>
+
 <h2>LET'S GO!</h2>
 <p>MAZE - is an application that allows you to build mazes and find the shortest path.
 </p>
